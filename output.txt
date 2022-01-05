@@ -1,0 +1,516 @@
+Actual S iteration: []
+
+Actual S iteration: [0]
+    Independent sets[0]    Substraction set[]    Value in X[S]:1
+Actual S iteration: [1]
+    Independent sets[1]    Substraction set[]    Value in X[S]:1
+Actual S iteration: [2]
+    Independent sets[2]    Substraction set[]    Value in X[S]:1
+Actual S iteration: [3]
+    Independent sets[3]    Substraction set[]    Value in X[S]:1
+Actual S iteration: [4]
+    Independent sets[4]    Substraction set[]    Value in X[S]:1
+Actual S iteration: [5]
+    Independent sets[5]    Substraction set[]    Value in X[S]:1
+Actual S iteration: [6]
+    Independent sets[6]    Substraction set[]    Value in X[S]:1
+Actual S iteration: [7]
+    Independent sets[7]    Substraction set[]    Value in X[S]:1
+Actual S iteration: [0, 1]
+    Independent sets[0, 1]    Substraction set[]    Value in X[S]:1
+Actual S iteration: [0, 2]
+    Independent sets[0]    Substraction set[2]    Value in X[S]:2    Independent sets[2]    Substraction set[0]    Value in X[S]:2
+Actual S iteration: [0, 3]
+    Independent sets[0]    Substraction set[3]    Value in X[S]:2    Independent sets[3]    Substraction set[0]    Value in X[S]:2
+Actual S iteration: [0, 4]
+    Independent sets[0]    Substraction set[4]    Value in X[S]:2    Independent sets[4]    Substraction set[0]    Value in X[S]:2
+Actual S iteration: [0, 5]
+    Independent sets[0]    Substraction set[5]    Value in X[S]:2    Independent sets[5]    Substraction set[0]    Value in X[S]:2
+Actual S iteration: [0, 6]
+    Independent sets[0]    Substraction set[6]    Value in X[S]:2    Independent sets[6]    Substraction set[0]    Value in X[S]:2
+Actual S iteration: [0, 7]
+    Independent sets[0]    Substraction set[7]    Value in X[S]:2    Independent sets[7]    Substraction set[0]    Value in X[S]:2
+Actual S iteration: [1, 2]
+    Independent sets[1, 2]    Substraction set[]    Value in X[S]:1
+Actual S iteration: [1, 3]
+    Independent sets[1, 3]    Substraction set[]    Value in X[S]:1
+Actual S iteration: [1, 4]
+    Independent sets[1]    Substraction set[4]    Value in X[S]:2    Independent sets[4]    Substraction set[1]    Value in X[S]:2
+Actual S iteration: [1, 5]
+    Independent sets[1]    Substraction set[5]    Value in X[S]:2    Independent sets[5]    Substraction set[1]    Value in X[S]:2
+Actual S iteration: [1, 6]
+    Independent sets[1, 6]    Substraction set[]    Value in X[S]:1
+Actual S iteration: [1, 7]
+    Independent sets[1]    Substraction set[7]    Value in X[S]:2    Independent sets[7]    Substraction set[1]    Value in X[S]:2
+Actual S iteration: [2, 3]
+    Independent sets[2]    Substraction set[3]    Value in X[S]:2    Independent sets[3]    Substraction set[2]    Value in X[S]:2
+Actual S iteration: [2, 4]
+    Independent sets[2]    Substraction set[4]    Value in X[S]:2    Independent sets[4]    Substraction set[2]    Value in X[S]:2
+Actual S iteration: [2, 5]
+    Independent sets[2]    Substraction set[5]    Value in X[S]:2    Independent sets[5]    Substraction set[2]    Value in X[S]:2
+Actual S iteration: [2, 6]
+    Independent sets[2]    Substraction set[6]    Value in X[S]:2    Independent sets[6]    Substraction set[2]    Value in X[S]:2
+Actual S iteration: [2, 7]
+    Independent sets[2]    Substraction set[7]    Value in X[S]:2    Independent sets[7]    Substraction set[2]    Value in X[S]:2
+Actual S iteration: [3, 4]
+    Independent sets[3]    Substraction set[4]    Value in X[S]:2    Independent sets[4]    Substraction set[3]    Value in X[S]:2
+Actual S iteration: [3, 5]
+    Independent sets[3]    Substraction set[5]    Value in X[S]:2    Independent sets[5]    Substraction set[3]    Value in X[S]:2
+Actual S iteration: [3, 6]
+    Independent sets[3, 6]    Substraction set[]    Value in X[S]:1
+Actual S iteration: [3, 7]
+    Independent sets[3, 7]    Substraction set[]    Value in X[S]:1
+Actual S iteration: [4, 5]
+    Independent sets[4]    Substraction set[5]    Value in X[S]:2    Independent sets[5]    Substraction set[4]    Value in X[S]:2
+Actual S iteration: [4, 6]
+    Independent sets[4, 6]    Substraction set[]    Value in X[S]:1
+Actual S iteration: [4, 7]
+    Independent sets[4]    Substraction set[7]    Value in X[S]:2    Independent sets[7]    Substraction set[4]    Value in X[S]:2
+Actual S iteration: [5, 6]
+    Independent sets[5, 6]    Substraction set[]    Value in X[S]:1
+Actual S iteration: [5, 7]
+    Independent sets[5]    Substraction set[7]    Value in X[S]:2    Independent sets[7]    Substraction set[5]    Value in X[S]:2
+Actual S iteration: [6, 7]
+    Independent sets[6]    Substraction set[7]    Value in X[S]:2    Independent sets[7]    Substraction set[6]    Value in X[S]:2
+Actual S iteration: [0, 1, 2]
+    Independent sets[0, 1]    Substraction set[2]    Value in X[S]:2    Independent sets[1, 2]    Substraction set[0]    Value in X[S]:2
+Actual S iteration: [0, 1, 3]
+    Independent sets[0, 1]    Substraction set[3]    Value in X[S]:2    Independent sets[1, 3]    Substraction set[0]    Value in X[S]:2
+Actual S iteration: [0, 1, 4]
+    Independent sets[0, 1]    Substraction set[4]    Value in X[S]:2
+Actual S iteration: [0, 1, 5]
+    Independent sets[0, 1]    Substraction set[5]    Value in X[S]:2
+Actual S iteration: [0, 1, 6]
+    Independent sets[0, 1]    Substraction set[6]    Value in X[S]:2    Independent sets[1, 6]    Substraction set[0]    Value in X[S]:2
+Actual S iteration: [0, 1, 7]
+    Independent sets[0, 1]    Substraction set[7]    Value in X[S]:2
+Actual S iteration: [0, 2, 3]
+    Independent sets[0]    Substraction set[2, 3]    Value in X[S]:3    Independent sets[2]    Substraction set[0, 3]    Value in X[S]:3    Independent sets[3]    Substraction set[0, 2]    Value in X[S]:3
+Actual S iteration: [0, 2, 4]
+    Independent sets[0]    Substraction set[2, 4]    Value in X[S]:3    Independent sets[2]    Substraction set[0, 4]    Value in X[S]:3    Independent sets[4]    Substraction set[0, 2]    Value in X[S]:3
+Actual S iteration: [0, 2, 5]
+    Independent sets[0]    Substraction set[2, 5]    Value in X[S]:3    Independent sets[2]    Substraction set[0, 5]    Value in X[S]:3    Independent sets[5]    Substraction set[0, 2]    Value in X[S]:3
+Actual S iteration: [0, 2, 6]
+    Independent sets[0]    Substraction set[2, 6]    Value in X[S]:3    Independent sets[2]    Substraction set[0, 6]    Value in X[S]:3    Independent sets[6]    Substraction set[0, 2]    Value in X[S]:3
+Actual S iteration: [0, 2, 7]
+    Independent sets[0]    Substraction set[2, 7]    Value in X[S]:3    Independent sets[2]    Substraction set[0, 7]    Value in X[S]:3    Independent sets[7]    Substraction set[0, 2]    Value in X[S]:3
+Actual S iteration: [0, 3, 4]
+    Independent sets[0]    Substraction set[3, 4]    Value in X[S]:3    Independent sets[3]    Substraction set[0, 4]    Value in X[S]:3    Independent sets[4]    Substraction set[0, 3]    Value in X[S]:3
+Actual S iteration: [0, 3, 5]
+    Independent sets[0]    Substraction set[3, 5]    Value in X[S]:3    Independent sets[3]    Substraction set[0, 5]    Value in X[S]:3    Independent sets[5]    Substraction set[0, 3]    Value in X[S]:3
+Actual S iteration: [0, 3, 6]
+    Independent sets[3, 6]    Substraction set[0]    Value in X[S]:2
+Actual S iteration: [0, 3, 7]
+    Independent sets[3, 7]    Substraction set[0]    Value in X[S]:2
+Actual S iteration: [0, 4, 5]
+    Independent sets[0]    Substraction set[4, 5]    Value in X[S]:3    Independent sets[4]    Substraction set[0, 5]    Value in X[S]:3    Independent sets[5]    Substraction set[0, 4]    Value in X[S]:3
+Actual S iteration: [0, 4, 6]
+    Independent sets[4, 6]    Substraction set[0]    Value in X[S]:2
+Actual S iteration: [0, 4, 7]
+    Independent sets[0]    Substraction set[4, 7]    Value in X[S]:3    Independent sets[4]    Substraction set[0, 7]    Value in X[S]:3    Independent sets[7]    Substraction set[0, 4]    Value in X[S]:3
+Actual S iteration: [0, 5, 6]
+    Independent sets[5, 6]    Substraction set[0]    Value in X[S]:2
+Actual S iteration: [0, 5, 7]
+    Independent sets[0]    Substraction set[5, 7]    Value in X[S]:3    Independent sets[5]    Substraction set[0, 7]    Value in X[S]:3    Independent sets[7]    Substraction set[0, 5]    Value in X[S]:3
+Actual S iteration: [0, 6, 7]
+    Independent sets[0]    Substraction set[6, 7]    Value in X[S]:3    Independent sets[6]    Substraction set[0, 7]    Value in X[S]:3    Independent sets[7]    Substraction set[0, 6]    Value in X[S]:3
+Actual S iteration: [1, 2, 3]
+    Independent sets[1, 2]    Substraction set[3]    Value in X[S]:2    Independent sets[1, 3]    Substraction set[2]    Value in X[S]:2
+Actual S iteration: [1, 2, 4]
+    Independent sets[1, 2]    Substraction set[4]    Value in X[S]:2
+Actual S iteration: [1, 2, 5]
+    Independent sets[1, 2]    Substraction set[5]    Value in X[S]:2
+Actual S iteration: [1, 2, 6]
+    Independent sets[1, 2]    Substraction set[6]    Value in X[S]:2    Independent sets[1, 6]    Substraction set[2]    Value in X[S]:2
+Actual S iteration: [1, 2, 7]
+    Independent sets[1, 2]    Substraction set[7]    Value in X[S]:2
+Actual S iteration: [1, 3, 4]
+    Independent sets[1, 3]    Substraction set[4]    Value in X[S]:2
+Actual S iteration: [1, 3, 5]
+    Independent sets[1, 3]    Substraction set[5]    Value in X[S]:2
+Actual S iteration: [1, 3, 6]
+    Independent sets[1, 3, 6]    Substraction set[]    Value in X[S]:1
+Actual S iteration: [1, 3, 7]
+    Independent sets[1, 3]    Substraction set[7]    Value in X[S]:2    Independent sets[3, 7]    Substraction set[1]    Value in X[S]:2
+Actual S iteration: [1, 4, 5]
+    Independent sets[1]    Substraction set[4, 5]    Value in X[S]:3    Independent sets[4]    Substraction set[1, 5]    Value in X[S]:3    Independent sets[5]    Substraction set[1, 4]    Value in X[S]:3
+Actual S iteration: [1, 4, 6]
+    Independent sets[1, 6]    Substraction set[4]    Value in X[S]:2    Independent sets[4, 6]    Substraction set[1]    Value in X[S]:2
+Actual S iteration: [1, 4, 7]
+    Independent sets[1]    Substraction set[4, 7]    Value in X[S]:3    Independent sets[4]    Substraction set[1, 7]    Value in X[S]:3    Independent sets[7]    Substraction set[1, 4]    Value in X[S]:3
+Actual S iteration: [1, 5, 6]
+    Independent sets[1, 6]    Substraction set[5]    Value in X[S]:2    Independent sets[5, 6]    Substraction set[1]    Value in X[S]:2
+Actual S iteration: [1, 5, 7]
+    Independent sets[1]    Substraction set[5, 7]    Value in X[S]:3    Independent sets[5]    Substraction set[1, 7]    Value in X[S]:3    Independent sets[7]    Substraction set[1, 5]    Value in X[S]:3
+Actual S iteration: [1, 6, 7]
+    Independent sets[1, 6]    Substraction set[7]    Value in X[S]:2
+Actual S iteration: [2, 3, 4]
+    Independent sets[2]    Substraction set[3, 4]    Value in X[S]:3    Independent sets[3]    Substraction set[2, 4]    Value in X[S]:3    Independent sets[4]    Substraction set[2, 3]    Value in X[S]:3
+Actual S iteration: [2, 3, 5]
+    Independent sets[2]    Substraction set[3, 5]    Value in X[S]:3    Independent sets[3]    Substraction set[2, 5]    Value in X[S]:3    Independent sets[5]    Substraction set[2, 3]    Value in X[S]:3
+Actual S iteration: [2, 3, 6]
+    Independent sets[3, 6]    Substraction set[2]    Value in X[S]:2
+Actual S iteration: [2, 3, 7]
+    Independent sets[3, 7]    Substraction set[2]    Value in X[S]:2
+Actual S iteration: [2, 4, 5]
+    Independent sets[2]    Substraction set[4, 5]    Value in X[S]:3    Independent sets[4]    Substraction set[2, 5]    Value in X[S]:3    Independent sets[5]    Substraction set[2, 4]    Value in X[S]:3
+Actual S iteration: [2, 4, 6]
+    Independent sets[4, 6]    Substraction set[2]    Value in X[S]:2
+Actual S iteration: [2, 4, 7]
+    Independent sets[2]    Substraction set[4, 7]    Value in X[S]:3    Independent sets[4]    Substraction set[2, 7]    Value in X[S]:3    Independent sets[7]    Substraction set[2, 4]    Value in X[S]:3
+Actual S iteration: [2, 5, 6]
+    Independent sets[5, 6]    Substraction set[2]    Value in X[S]:2
+Actual S iteration: [2, 5, 7]
+    Independent sets[2]    Substraction set[5, 7]    Value in X[S]:3    Independent sets[5]    Substraction set[2, 7]    Value in X[S]:3    Independent sets[7]    Substraction set[2, 5]    Value in X[S]:3
+Actual S iteration: [2, 6, 7]
+    Independent sets[2]    Substraction set[6, 7]    Value in X[S]:3    Independent sets[6]    Substraction set[2, 7]    Value in X[S]:3    Independent sets[7]    Substraction set[2, 6]    Value in X[S]:3
+Actual S iteration: [3, 4, 5]
+    Independent sets[3]    Substraction set[4, 5]    Value in X[S]:3    Independent sets[4]    Substraction set[3, 5]    Value in X[S]:3    Independent sets[5]    Substraction set[3, 4]    Value in X[S]:3
+Actual S iteration: [3, 4, 6]
+    Independent sets[3, 6]    Substraction set[4]    Value in X[S]:2    Independent sets[4, 6]    Substraction set[3]    Value in X[S]:2
+Actual S iteration: [3, 4, 7]
+    Independent sets[3, 7]    Substraction set[4]    Value in X[S]:2
+Actual S iteration: [3, 5, 6]
+    Independent sets[3, 6]    Substraction set[5]    Value in X[S]:2    Independent sets[5, 6]    Substraction set[3]    Value in X[S]:2
+Actual S iteration: [3, 5, 7]
+    Independent sets[3, 7]    Substraction set[5]    Value in X[S]:2
+Actual S iteration: [3, 6, 7]
+    Independent sets[3, 6]    Substraction set[7]    Value in X[S]:2    Independent sets[3, 7]    Substraction set[6]    Value in X[S]:2
+Actual S iteration: [4, 5, 6]
+    Independent sets[4, 6]    Substraction set[5]    Value in X[S]:2    Independent sets[5, 6]    Substraction set[4]    Value in X[S]:2
+Actual S iteration: [4, 5, 7]
+    Independent sets[4]    Substraction set[5, 7]    Value in X[S]:3    Independent sets[5]    Substraction set[4, 7]    Value in X[S]:3    Independent sets[7]    Substraction set[4, 5]    Value in X[S]:3
+Actual S iteration: [4, 6, 7]
+    Independent sets[4, 6]    Substraction set[7]    Value in X[S]:2
+Actual S iteration: [5, 6, 7]
+    Independent sets[5, 6]    Substraction set[7]    Value in X[S]:2
+Actual S iteration: [0, 1, 2, 3]
+    Independent sets[0, 1]    Substraction set[2, 3]    Value in X[S]:3    Independent sets[1, 2]    Substraction set[0, 3]    Value in X[S]:3    Independent sets[1, 3]    Substraction set[0, 2]    Value in X[S]:3
+Actual S iteration: [0, 1, 2, 4]
+    Independent sets[0, 1]    Substraction set[2, 4]    Value in X[S]:3    Independent sets[1, 2]    Substraction set[0, 4]    Value in X[S]:3
+Actual S iteration: [0, 1, 2, 5]
+    Independent sets[0, 1]    Substraction set[2, 5]    Value in X[S]:3    Independent sets[1, 2]    Substraction set[0, 5]    Value in X[S]:3
+Actual S iteration: [0, 1, 2, 6]
+    Independent sets[0, 1]    Substraction set[2, 6]    Value in X[S]:3    Independent sets[1, 2]    Substraction set[0, 6]    Value in X[S]:3    Independent sets[1, 6]    Substraction set[0, 2]    Value in X[S]:3
+Actual S iteration: [0, 1, 2, 7]
+    Independent sets[0, 1]    Substraction set[2, 7]    Value in X[S]:3    Independent sets[1, 2]    Substraction set[0, 7]    Value in X[S]:3
+Actual S iteration: [0, 1, 3, 4]
+    Independent sets[0, 1]    Substraction set[3, 4]    Value in X[S]:3    Independent sets[1, 3]    Substraction set[0, 4]    Value in X[S]:3
+Actual S iteration: [0, 1, 3, 5]
+    Independent sets[0, 1]    Substraction set[3, 5]    Value in X[S]:3    Independent sets[1, 3]    Substraction set[0, 5]    Value in X[S]:3
+Actual S iteration: [0, 1, 3, 6]
+    Independent sets[1, 3, 6]    Substraction set[0]    Value in X[S]:2
+Actual S iteration: [0, 1, 3, 7]
+    Independent sets[0, 1]    Substraction set[3, 7]    Value in X[S]:2    Independent sets[1, 3]    Substraction set[0, 7]    Value in X[S]:2    Independent sets[3, 7]    Substraction set[0, 1]    Value in X[S]:2
+Actual S iteration: [0, 1, 4, 5]
+    Independent sets[0, 1]    Substraction set[4, 5]    Value in X[S]:3
+Actual S iteration: [0, 1, 4, 6]
+    Independent sets[0, 1]    Substraction set[4, 6]    Value in X[S]:2    Independent sets[1, 6]    Substraction set[0, 4]    Value in X[S]:2    Independent sets[4, 6]    Substraction set[0, 1]    Value in X[S]:2
+Actual S iteration: [0, 1, 4, 7]
+    Independent sets[0, 1]    Substraction set[4, 7]    Value in X[S]:3
+Actual S iteration: [0, 1, 5, 6]
+    Independent sets[0, 1]    Substraction set[5, 6]    Value in X[S]:2    Independent sets[1, 6]    Substraction set[0, 5]    Value in X[S]:2    Independent sets[5, 6]    Substraction set[0, 1]    Value in X[S]:2
+Actual S iteration: [0, 1, 5, 7]
+    Independent sets[0, 1]    Substraction set[5, 7]    Value in X[S]:3
+Actual S iteration: [0, 1, 6, 7]
+    Independent sets[0, 1]    Substraction set[6, 7]    Value in X[S]:3    Independent sets[1, 6]    Substraction set[0, 7]    Value in X[S]:3
+Actual S iteration: [0, 2, 3, 4]
+    Independent sets[0]    Substraction set[2, 3, 4]    Value in X[S]:4    Independent sets[2]    Substraction set[0, 3, 4]    Value in X[S]:4    Independent sets[3]    Substraction set[0, 2, 4]    Value in X[S]:4    Independent sets[4]    Substraction set[0, 2, 3]    Value in X[S]:4
+Actual S iteration: [0, 2, 3, 5]
+    Independent sets[0]    Substraction set[2, 3, 5]    Value in X[S]:4    Independent sets[2]    Substraction set[0, 3, 5]    Value in X[S]:4    Independent sets[3]    Substraction set[0, 2, 5]    Value in X[S]:4    Independent sets[5]    Substraction set[0, 2, 3]    Value in X[S]:4
+Actual S iteration: [0, 2, 3, 6]
+    Independent sets[3, 6]    Substraction set[0, 2]    Value in X[S]:3
+Actual S iteration: [0, 2, 3, 7]
+    Independent sets[3, 7]    Substraction set[0, 2]    Value in X[S]:3
+Actual S iteration: [0, 2, 4, 5]
+    Independent sets[0]    Substraction set[2, 4, 5]    Value in X[S]:4    Independent sets[2]    Substraction set[0, 4, 5]    Value in X[S]:4    Independent sets[4]    Substraction set[0, 2, 5]    Value in X[S]:4    Independent sets[5]    Substraction set[0, 2, 4]    Value in X[S]:4
+Actual S iteration: [0, 2, 4, 6]
+    Independent sets[4, 6]    Substraction set[0, 2]    Value in X[S]:3
+Actual S iteration: [0, 2, 4, 7]
+    Independent sets[0]    Substraction set[2, 4, 7]    Value in X[S]:4    Independent sets[2]    Substraction set[0, 4, 7]    Value in X[S]:4    Independent sets[4]    Substraction set[0, 2, 7]    Value in X[S]:4    Independent sets[7]    Substraction set[0, 2, 4]    Value in X[S]:4
+Actual S iteration: [0, 2, 5, 6]
+    Independent sets[5, 6]    Substraction set[0, 2]    Value in X[S]:3
+Actual S iteration: [0, 2, 5, 7]
+    Independent sets[0]    Substraction set[2, 5, 7]    Value in X[S]:4    Independent sets[2]    Substraction set[0, 5, 7]    Value in X[S]:4    Independent sets[5]    Substraction set[0, 2, 7]    Value in X[S]:4    Independent sets[7]    Substraction set[0, 2, 5]    Value in X[S]:4
+Actual S iteration: [0, 2, 6, 7]
+    Independent sets[0]    Substraction set[2, 6, 7]    Value in X[S]:4    Independent sets[2]    Substraction set[0, 6, 7]    Value in X[S]:4    Independent sets[6]    Substraction set[0, 2, 7]    Value in X[S]:4    Independent sets[7]    Substraction set[0, 2, 6]    Value in X[S]:4
+Actual S iteration: [0, 3, 4, 5]
+    Independent sets[0]    Substraction set[3, 4, 5]    Value in X[S]:4    Independent sets[3]    Substraction set[0, 4, 5]    Value in X[S]:4    Independent sets[4]    Substraction set[0, 3, 5]    Value in X[S]:4    Independent sets[5]    Substraction set[0, 3, 4]    Value in X[S]:4
+Actual S iteration: [0, 3, 4, 6]
+    Independent sets[3, 6]    Substraction set[0, 4]    Value in X[S]:3    Independent sets[4, 6]    Substraction set[0, 3]    Value in X[S]:3
+Actual S iteration: [0, 3, 4, 7]
+    Independent sets[3, 7]    Substraction set[0, 4]    Value in X[S]:3
+Actual S iteration: [0, 3, 5, 6]
+    Independent sets[3, 6]    Substraction set[0, 5]    Value in X[S]:3    Independent sets[5, 6]    Substraction set[0, 3]    Value in X[S]:3
+Actual S iteration: [0, 3, 5, 7]
+    Independent sets[3, 7]    Substraction set[0, 5]    Value in X[S]:3
+Actual S iteration: [0, 3, 6, 7]
+    Independent sets[3, 6]    Substraction set[0, 7]    Value in X[S]:3    Independent sets[3, 7]    Substraction set[0, 6]    Value in X[S]:3
+Actual S iteration: [0, 4, 5, 6]
+    Independent sets[4, 6]    Substraction set[0, 5]    Value in X[S]:3    Independent sets[5, 6]    Substraction set[0, 4]    Value in X[S]:3
+Actual S iteration: [0, 4, 5, 7]
+    Independent sets[0]    Substraction set[4, 5, 7]    Value in X[S]:4    Independent sets[4]    Substraction set[0, 5, 7]    Value in X[S]:4    Independent sets[5]    Substraction set[0, 4, 7]    Value in X[S]:4    Independent sets[7]    Substraction set[0, 4, 5]    Value in X[S]:4
+Actual S iteration: [0, 4, 6, 7]
+    Independent sets[4, 6]    Substraction set[0, 7]    Value in X[S]:3
+Actual S iteration: [0, 5, 6, 7]
+    Independent sets[5, 6]    Substraction set[0, 7]    Value in X[S]:3
+Actual S iteration: [1, 2, 3, 4]
+    Independent sets[1, 2]    Substraction set[3, 4]    Value in X[S]:3    Independent sets[1, 3]    Substraction set[2, 4]    Value in X[S]:3
+Actual S iteration: [1, 2, 3, 5]
+    Independent sets[1, 2]    Substraction set[3, 5]    Value in X[S]:3    Independent sets[1, 3]    Substraction set[2, 5]    Value in X[S]:3
+Actual S iteration: [1, 2, 3, 6]
+    Independent sets[1, 3, 6]    Substraction set[2]    Value in X[S]:2
+Actual S iteration: [1, 2, 3, 7]
+    Independent sets[1, 2]    Substraction set[3, 7]    Value in X[S]:2    Independent sets[1, 3]    Substraction set[2, 7]    Value in X[S]:2    Independent sets[3, 7]    Substraction set[1, 2]    Value in X[S]:2
+Actual S iteration: [1, 2, 4, 5]
+    Independent sets[1, 2]    Substraction set[4, 5]    Value in X[S]:3
+Actual S iteration: [1, 2, 4, 6]
+    Independent sets[1, 2]    Substraction set[4, 6]    Value in X[S]:2    Independent sets[1, 6]    Substraction set[2, 4]    Value in X[S]:2    Independent sets[4, 6]    Substraction set[1, 2]    Value in X[S]:2
+Actual S iteration: [1, 2, 4, 7]
+    Independent sets[1, 2]    Substraction set[4, 7]    Value in X[S]:3
+Actual S iteration: [1, 2, 5, 6]
+    Independent sets[1, 2]    Substraction set[5, 6]    Value in X[S]:2    Independent sets[1, 6]    Substraction set[2, 5]    Value in X[S]:2    Independent sets[5, 6]    Substraction set[1, 2]    Value in X[S]:2
+Actual S iteration: [1, 2, 5, 7]
+    Independent sets[1, 2]    Substraction set[5, 7]    Value in X[S]:3
+Actual S iteration: [1, 2, 6, 7]
+    Independent sets[1, 2]    Substraction set[6, 7]    Value in X[S]:3    Independent sets[1, 6]    Substraction set[2, 7]    Value in X[S]:3
+Actual S iteration: [1, 3, 4, 5]
+    Independent sets[1, 3]    Substraction set[4, 5]    Value in X[S]:3
+Actual S iteration: [1, 3, 4, 6]
+    Independent sets[1, 3, 6]    Substraction set[4]    Value in X[S]:2
+Actual S iteration: [1, 3, 4, 7]
+    Independent sets[1, 3]    Substraction set[4, 7]    Value in X[S]:3    Independent sets[3, 7]    Substraction set[1, 4]    Value in X[S]:3
+Actual S iteration: [1, 3, 5, 6]
+    Independent sets[1, 3, 6]    Substraction set[5]    Value in X[S]:2
+Actual S iteration: [1, 3, 5, 7]
+    Independent sets[1, 3]    Substraction set[5, 7]    Value in X[S]:3    Independent sets[3, 7]    Substraction set[1, 5]    Value in X[S]:3
+Actual S iteration: [1, 3, 6, 7]
+    Independent sets[1, 3, 6]    Substraction set[7]    Value in X[S]:2
+Actual S iteration: [1, 4, 5, 6]
+    Independent sets[1, 6]    Substraction set[4, 5]    Value in X[S]:3    Independent sets[4, 6]    Substraction set[1, 5]    Value in X[S]:3    Independent sets[5, 6]    Substraction set[1, 4]    Value in X[S]:3
+Actual S iteration: [1, 4, 5, 7]
+    Independent sets[1]    Substraction set[4, 5, 7]    Value in X[S]:4    Independent sets[4]    Substraction set[1, 5, 7]    Value in X[S]:4    Independent sets[5]    Substraction set[1, 4, 7]    Value in X[S]:4    Independent sets[7]    Substraction set[1, 4, 5]    Value in X[S]:4
+Actual S iteration: [1, 4, 6, 7]
+    Independent sets[1, 6]    Substraction set[4, 7]    Value in X[S]:3    Independent sets[4, 6]    Substraction set[1, 7]    Value in X[S]:3
+Actual S iteration: [1, 5, 6, 7]
+    Independent sets[1, 6]    Substraction set[5, 7]    Value in X[S]:3    Independent sets[5, 6]    Substraction set[1, 7]    Value in X[S]:3
+Actual S iteration: [2, 3, 4, 5]
+    Independent sets[2]    Substraction set[3, 4, 5]    Value in X[S]:4    Independent sets[3]    Substraction set[2, 4, 5]    Value in X[S]:4    Independent sets[4]    Substraction set[2, 3, 5]    Value in X[S]:4    Independent sets[5]    Substraction set[2, 3, 4]    Value in X[S]:4
+Actual S iteration: [2, 3, 4, 6]
+    Independent sets[3, 6]    Substraction set[2, 4]    Value in X[S]:3    Independent sets[4, 6]    Substraction set[2, 3]    Value in X[S]:3
+Actual S iteration: [2, 3, 4, 7]
+    Independent sets[3, 7]    Substraction set[2, 4]    Value in X[S]:3
+Actual S iteration: [2, 3, 5, 6]
+    Independent sets[3, 6]    Substraction set[2, 5]    Value in X[S]:3    Independent sets[5, 6]    Substraction set[2, 3]    Value in X[S]:3
+Actual S iteration: [2, 3, 5, 7]
+    Independent sets[3, 7]    Substraction set[2, 5]    Value in X[S]:3
+Actual S iteration: [2, 3, 6, 7]
+    Independent sets[3, 6]    Substraction set[2, 7]    Value in X[S]:3    Independent sets[3, 7]    Substraction set[2, 6]    Value in X[S]:3
+Actual S iteration: [2, 4, 5, 6]
+    Independent sets[4, 6]    Substraction set[2, 5]    Value in X[S]:3    Independent sets[5, 6]    Substraction set[2, 4]    Value in X[S]:3
+Actual S iteration: [2, 4, 5, 7]
+    Independent sets[2]    Substraction set[4, 5, 7]    Value in X[S]:4    Independent sets[4]    Substraction set[2, 5, 7]    Value in X[S]:4    Independent sets[5]    Substraction set[2, 4, 7]    Value in X[S]:4    Independent sets[7]    Substraction set[2, 4, 5]    Value in X[S]:4
+Actual S iteration: [2, 4, 6, 7]
+    Independent sets[4, 6]    Substraction set[2, 7]    Value in X[S]:3
+Actual S iteration: [2, 5, 6, 7]
+    Independent sets[5, 6]    Substraction set[2, 7]    Value in X[S]:3
+Actual S iteration: [3, 4, 5, 6]
+    Independent sets[3, 6]    Substraction set[4, 5]    Value in X[S]:3    Independent sets[4, 6]    Substraction set[3, 5]    Value in X[S]:3    Independent sets[5, 6]    Substraction set[3, 4]    Value in X[S]:3
+Actual S iteration: [3, 4, 5, 7]
+    Independent sets[3, 7]    Substraction set[4, 5]    Value in X[S]:3
+Actual S iteration: [3, 4, 6, 7]
+    Independent sets[3, 6]    Substraction set[4, 7]    Value in X[S]:3    Independent sets[3, 7]    Substraction set[4, 6]    Value in X[S]:2    Independent sets[4, 6]    Substraction set[3, 7]    Value in X[S]:2
+Actual S iteration: [3, 5, 6, 7]
+    Independent sets[3, 6]    Substraction set[5, 7]    Value in X[S]:3    Independent sets[3, 7]    Substraction set[5, 6]    Value in X[S]:2    Independent sets[5, 6]    Substraction set[3, 7]    Value in X[S]:2
+Actual S iteration: [4, 5, 6, 7]
+    Independent sets[4, 6]    Substraction set[5, 7]    Value in X[S]:3    Independent sets[5, 6]    Substraction set[4, 7]    Value in X[S]:3
+Actual S iteration: [0, 1, 2, 3, 4]
+    Independent sets[0, 1]    Substraction set[2, 3, 4]    Value in X[S]:4    Independent sets[1, 2]    Substraction set[0, 3, 4]    Value in X[S]:4    Independent sets[1, 3]    Substraction set[0, 2, 4]    Value in X[S]:4
+Actual S iteration: [0, 1, 2, 3, 5]
+    Independent sets[0, 1]    Substraction set[2, 3, 5]    Value in X[S]:4    Independent sets[1, 2]    Substraction set[0, 3, 5]    Value in X[S]:4    Independent sets[1, 3]    Substraction set[0, 2, 5]    Value in X[S]:4
+Actual S iteration: [0, 1, 2, 3, 6]
+    Independent sets[1, 3, 6]    Substraction set[0, 2]    Value in X[S]:3
+Actual S iteration: [0, 1, 2, 3, 7]
+    Independent sets[0, 1]    Substraction set[2, 3, 7]    Value in X[S]:3    Independent sets[1, 2]    Substraction set[0, 3, 7]    Value in X[S]:3    Independent sets[1, 3]    Substraction set[0, 2, 7]    Value in X[S]:3    Independent sets[3, 7]    Substraction set[0, 1, 2]    Value in X[S]:3
+Actual S iteration: [0, 1, 2, 4, 5]
+    Independent sets[0, 1]    Substraction set[2, 4, 5]    Value in X[S]:4    Independent sets[1, 2]    Substraction set[0, 4, 5]    Value in X[S]:4
+Actual S iteration: [0, 1, 2, 4, 6]
+    Independent sets[0, 1]    Substraction set[2, 4, 6]    Value in X[S]:3    Independent sets[1, 2]    Substraction set[0, 4, 6]    Value in X[S]:3    Independent sets[1, 6]    Substraction set[0, 2, 4]    Value in X[S]:3    Independent sets[4, 6]    Substraction set[0, 1, 2]    Value in X[S]:3
+Actual S iteration: [0, 1, 2, 4, 7]
+    Independent sets[0, 1]    Substraction set[2, 4, 7]    Value in X[S]:4    Independent sets[1, 2]    Substraction set[0, 4, 7]    Value in X[S]:4
+Actual S iteration: [0, 1, 2, 5, 6]
+    Independent sets[0, 1]    Substraction set[2, 5, 6]    Value in X[S]:3    Independent sets[1, 2]    Substraction set[0, 5, 6]    Value in X[S]:3    Independent sets[1, 6]    Substraction set[0, 2, 5]    Value in X[S]:3    Independent sets[5, 6]    Substraction set[0, 1, 2]    Value in X[S]:3
+Actual S iteration: [0, 1, 2, 5, 7]
+    Independent sets[0, 1]    Substraction set[2, 5, 7]    Value in X[S]:4    Independent sets[1, 2]    Substraction set[0, 5, 7]    Value in X[S]:4
+Actual S iteration: [0, 1, 2, 6, 7]
+    Independent sets[0, 1]    Substraction set[2, 6, 7]    Value in X[S]:4    Independent sets[1, 2]    Substraction set[0, 6, 7]    Value in X[S]:4    Independent sets[1, 6]    Substraction set[0, 2, 7]    Value in X[S]:4
+Actual S iteration: [0, 1, 3, 4, 5]
+    Independent sets[0, 1]    Substraction set[3, 4, 5]    Value in X[S]:4    Independent sets[1, 3]    Substraction set[0, 4, 5]    Value in X[S]:4
+Actual S iteration: [0, 1, 3, 4, 6]
+    Independent sets[1, 3, 6]    Substraction set[0, 4]    Value in X[S]:3
+Actual S iteration: [0, 1, 3, 4, 7]
+    Independent sets[0, 1]    Substraction set[3, 4, 7]    Value in X[S]:3    Independent sets[1, 3]    Substraction set[0, 4, 7]    Value in X[S]:3    Independent sets[3, 7]    Substraction set[0, 1, 4]    Value in X[S]:3
+Actual S iteration: [0, 1, 3, 5, 6]
+    Independent sets[1, 3, 6]    Substraction set[0, 5]    Value in X[S]:3
+Actual S iteration: [0, 1, 3, 5, 7]
+    Independent sets[0, 1]    Substraction set[3, 5, 7]    Value in X[S]:3    Independent sets[1, 3]    Substraction set[0, 5, 7]    Value in X[S]:3    Independent sets[3, 7]    Substraction set[0, 1, 5]    Value in X[S]:3
+Actual S iteration: [0, 1, 3, 6, 7]
+    Independent sets[1, 3, 6]    Substraction set[0, 7]    Value in X[S]:3
+Actual S iteration: [0, 1, 4, 5, 6]
+    Independent sets[0, 1]    Substraction set[4, 5, 6]    Value in X[S]:3    Independent sets[1, 6]    Substraction set[0, 4, 5]    Value in X[S]:3    Independent sets[4, 6]    Substraction set[0, 1, 5]    Value in X[S]:3    Independent sets[5, 6]    Substraction set[0, 1, 4]    Value in X[S]:3
+Actual S iteration: [0, 1, 4, 5, 7]
+    Independent sets[0, 1]    Substraction set[4, 5, 7]    Value in X[S]:4
+Actual S iteration: [0, 1, 4, 6, 7]
+    Independent sets[0, 1]    Substraction set[4, 6, 7]    Value in X[S]:3    Independent sets[1, 6]    Substraction set[0, 4, 7]    Value in X[S]:3    Independent sets[4, 6]    Substraction set[0, 1, 7]    Value in X[S]:3
+Actual S iteration: [0, 1, 5, 6, 7]
+    Independent sets[0, 1]    Substraction set[5, 6, 7]    Value in X[S]:3    Independent sets[1, 6]    Substraction set[0, 5, 7]    Value in X[S]:3    Independent sets[5, 6]    Substraction set[0, 1, 7]    Value in X[S]:3
+Actual S iteration: [0, 2, 3, 4, 5]
+    Independent sets[0]    Substraction set[2, 3, 4, 5]    Value in X[S]:5    Independent sets[2]    Substraction set[0, 3, 4, 5]    Value in X[S]:5    Independent sets[3]    Substraction set[0, 2, 4, 5]    Value in X[S]:5    Independent sets[4]    Substraction set[0, 2, 3, 5]    Value in X[S]:5    Independent sets[5]    Substraction set[0, 2, 3, 4]    Value in X[S]:5
+Actual S iteration: [0, 2, 3, 4, 6]
+    Independent sets[3, 6]    Substraction set[0, 2, 4]    Value in X[S]:4    Independent sets[4, 6]    Substraction set[0, 2, 3]    Value in X[S]:4
+Actual S iteration: [0, 2, 3, 4, 7]
+    Independent sets[3, 7]    Substraction set[0, 2, 4]    Value in X[S]:4
+Actual S iteration: [0, 2, 3, 5, 6]
+    Independent sets[3, 6]    Substraction set[0, 2, 5]    Value in X[S]:4    Independent sets[5, 6]    Substraction set[0, 2, 3]    Value in X[S]:4
+Actual S iteration: [0, 2, 3, 5, 7]
+    Independent sets[3, 7]    Substraction set[0, 2, 5]    Value in X[S]:4
+Actual S iteration: [0, 2, 3, 6, 7]
+    Independent sets[3, 6]    Substraction set[0, 2, 7]    Value in X[S]:4    Independent sets[3, 7]    Substraction set[0, 2, 6]    Value in X[S]:4
+Actual S iteration: [0, 2, 4, 5, 6]
+    Independent sets[4, 6]    Substraction set[0, 2, 5]    Value in X[S]:4    Independent sets[5, 6]    Substraction set[0, 2, 4]    Value in X[S]:4
+Actual S iteration: [0, 2, 4, 5, 7]
+    Independent sets[0]    Substraction set[2, 4, 5, 7]    Value in X[S]:5    Independent sets[2]    Substraction set[0, 4, 5, 7]    Value in X[S]:5    Independent sets[4]    Substraction set[0, 2, 5, 7]    Value in X[S]:5    Independent sets[5]    Substraction set[0, 2, 4, 7]    Value in X[S]:5    Independent sets[7]    Substraction set[0, 2, 4, 5]    Value in X[S]:5
+Actual S iteration: [0, 2, 4, 6, 7]
+    Independent sets[4, 6]    Substraction set[0, 2, 7]    Value in X[S]:4
+Actual S iteration: [0, 2, 5, 6, 7]
+    Independent sets[5, 6]    Substraction set[0, 2, 7]    Value in X[S]:4
+Actual S iteration: [0, 3, 4, 5, 6]
+    Independent sets[3, 6]    Substraction set[0, 4, 5]    Value in X[S]:4    Independent sets[4, 6]    Substraction set[0, 3, 5]    Value in X[S]:4    Independent sets[5, 6]    Substraction set[0, 3, 4]    Value in X[S]:4
+Actual S iteration: [0, 3, 4, 5, 7]
+    Independent sets[3, 7]    Substraction set[0, 4, 5]    Value in X[S]:4
+Actual S iteration: [0, 3, 4, 6, 7]
+    Independent sets[3, 6]    Substraction set[0, 4, 7]    Value in X[S]:4    Independent sets[3, 7]    Substraction set[0, 4, 6]    Value in X[S]:3    Independent sets[4, 6]    Substraction set[0, 3, 7]    Value in X[S]:3
+Actual S iteration: [0, 3, 5, 6, 7]
+    Independent sets[3, 6]    Substraction set[0, 5, 7]    Value in X[S]:4    Independent sets[3, 7]    Substraction set[0, 5, 6]    Value in X[S]:3    Independent sets[5, 6]    Substraction set[0, 3, 7]    Value in X[S]:3
+Actual S iteration: [0, 4, 5, 6, 7]
+    Independent sets[4, 6]    Substraction set[0, 5, 7]    Value in X[S]:4    Independent sets[5, 6]    Substraction set[0, 4, 7]    Value in X[S]:4
+Actual S iteration: [1, 2, 3, 4, 5]
+    Independent sets[1, 2]    Substraction set[3, 4, 5]    Value in X[S]:4    Independent sets[1, 3]    Substraction set[2, 4, 5]    Value in X[S]:4
+Actual S iteration: [1, 2, 3, 4, 6]
+    Independent sets[1, 3, 6]    Substraction set[2, 4]    Value in X[S]:3
+Actual S iteration: [1, 2, 3, 4, 7]
+    Independent sets[1, 2]    Substraction set[3, 4, 7]    Value in X[S]:3    Independent sets[1, 3]    Substraction set[2, 4, 7]    Value in X[S]:3    Independent sets[3, 7]    Substraction set[1, 2, 4]    Value in X[S]:3
+Actual S iteration: [1, 2, 3, 5, 6]
+    Independent sets[1, 3, 6]    Substraction set[2, 5]    Value in X[S]:3
+Actual S iteration: [1, 2, 3, 5, 7]
+    Independent sets[1, 2]    Substraction set[3, 5, 7]    Value in X[S]:3    Independent sets[1, 3]    Substraction set[2, 5, 7]    Value in X[S]:3    Independent sets[3, 7]    Substraction set[1, 2, 5]    Value in X[S]:3
+Actual S iteration: [1, 2, 3, 6, 7]
+    Independent sets[1, 3, 6]    Substraction set[2, 7]    Value in X[S]:3
+Actual S iteration: [1, 2, 4, 5, 6]
+    Independent sets[1, 2]    Substraction set[4, 5, 6]    Value in X[S]:3    Independent sets[1, 6]    Substraction set[2, 4, 5]    Value in X[S]:3    Independent sets[4, 6]    Substraction set[1, 2, 5]    Value in X[S]:3    Independent sets[5, 6]    Substraction set[1, 2, 4]    Value in X[S]:3
+Actual S iteration: [1, 2, 4, 5, 7]
+    Independent sets[1, 2]    Substraction set[4, 5, 7]    Value in X[S]:4
+Actual S iteration: [1, 2, 4, 6, 7]
+    Independent sets[1, 2]    Substraction set[4, 6, 7]    Value in X[S]:3    Independent sets[1, 6]    Substraction set[2, 4, 7]    Value in X[S]:3    Independent sets[4, 6]    Substraction set[1, 2, 7]    Value in X[S]:3
+Actual S iteration: [1, 2, 5, 6, 7]
+    Independent sets[1, 2]    Substraction set[5, 6, 7]    Value in X[S]:3    Independent sets[1, 6]    Substraction set[2, 5, 7]    Value in X[S]:3    Independent sets[5, 6]    Substraction set[1, 2, 7]    Value in X[S]:3
+Actual S iteration: [1, 3, 4, 5, 6]
+    Independent sets[1, 3, 6]    Substraction set[4, 5]    Value in X[S]:3
+Actual S iteration: [1, 3, 4, 5, 7]
+    Independent sets[1, 3]    Substraction set[4, 5, 7]    Value in X[S]:4    Independent sets[3, 7]    Substraction set[1, 4, 5]    Value in X[S]:4
+Actual S iteration: [1, 3, 4, 6, 7]
+    Independent sets[1, 3, 6]    Substraction set[4, 7]    Value in X[S]:3
+Actual S iteration: [1, 3, 5, 6, 7]
+    Independent sets[1, 3, 6]    Substraction set[5, 7]    Value in X[S]:3
+Actual S iteration: [1, 4, 5, 6, 7]
+    Independent sets[1, 6]    Substraction set[4, 5, 7]    Value in X[S]:4    Independent sets[4, 6]    Substraction set[1, 5, 7]    Value in X[S]:4    Independent sets[5, 6]    Substraction set[1, 4, 7]    Value in X[S]:4
+Actual S iteration: [2, 3, 4, 5, 6]
+    Independent sets[3, 6]    Substraction set[2, 4, 5]    Value in X[S]:4    Independent sets[4, 6]    Substraction set[2, 3, 5]    Value in X[S]:4    Independent sets[5, 6]    Substraction set[2, 3, 4]    Value in X[S]:4
+Actual S iteration: [2, 3, 4, 5, 7]
+    Independent sets[3, 7]    Substraction set[2, 4, 5]    Value in X[S]:4
+Actual S iteration: [2, 3, 4, 6, 7]
+    Independent sets[3, 6]    Substraction set[2, 4, 7]    Value in X[S]:4    Independent sets[3, 7]    Substraction set[2, 4, 6]    Value in X[S]:3    Independent sets[4, 6]    Substraction set[2, 3, 7]    Value in X[S]:3
+Actual S iteration: [2, 3, 5, 6, 7]
+    Independent sets[3, 6]    Substraction set[2, 5, 7]    Value in X[S]:4    Independent sets[3, 7]    Substraction set[2, 5, 6]    Value in X[S]:3    Independent sets[5, 6]    Substraction set[2, 3, 7]    Value in X[S]:3
+Actual S iteration: [2, 4, 5, 6, 7]
+    Independent sets[4, 6]    Substraction set[2, 5, 7]    Value in X[S]:4    Independent sets[5, 6]    Substraction set[2, 4, 7]    Value in X[S]:4
+Actual S iteration: [3, 4, 5, 6, 7]
+    Independent sets[3, 6]    Substraction set[4, 5, 7]    Value in X[S]:4    Independent sets[3, 7]    Substraction set[4, 5, 6]    Value in X[S]:3    Independent sets[4, 6]    Substraction set[3, 5, 7]    Value in X[S]:3    Independent sets[5, 6]    Substraction set[3, 4, 7]    Value in X[S]:3
+Actual S iteration: [0, 1, 2, 3, 4, 5]
+    Independent sets[0, 1]    Substraction set[2, 3, 4, 5]    Value in X[S]:5    Independent sets[1, 2]    Substraction set[0, 3, 4, 5]    Value in X[S]:5    Independent sets[1, 3]    Substraction set[0, 2, 4, 5]    Value in X[S]:5
+Actual S iteration: [0, 1, 2, 3, 4, 6]
+    Independent sets[1, 3, 6]    Substraction set[0, 2, 4]    Value in X[S]:4
+Actual S iteration: [0, 1, 2, 3, 4, 7]
+    Independent sets[0, 1]    Substraction set[2, 3, 4, 7]    Value in X[S]:4    Independent sets[1, 2]    Substraction set[0, 3, 4, 7]    Value in X[S]:4    Independent sets[1, 3]    Substraction set[0, 2, 4, 7]    Value in X[S]:4    Independent sets[3, 7]    Substraction set[0, 1, 2, 4]    Value in X[S]:4
+Actual S iteration: [0, 1, 2, 3, 5, 6]
+    Independent sets[1, 3, 6]    Substraction set[0, 2, 5]    Value in X[S]:4
+Actual S iteration: [0, 1, 2, 3, 5, 7]
+    Independent sets[0, 1]    Substraction set[2, 3, 5, 7]    Value in X[S]:4    Independent sets[1, 2]    Substraction set[0, 3, 5, 7]    Value in X[S]:4    Independent sets[1, 3]    Substraction set[0, 2, 5, 7]    Value in X[S]:4    Independent sets[3, 7]    Substraction set[0, 1, 2, 5]    Value in X[S]:4
+Actual S iteration: [0, 1, 2, 3, 6, 7]
+    Independent sets[1, 3, 6]    Substraction set[0, 2, 7]    Value in X[S]:4
+Actual S iteration: [0, 1, 2, 4, 5, 6]
+    Independent sets[0, 1]    Substraction set[2, 4, 5, 6]    Value in X[S]:4    Independent sets[1, 2]    Substraction set[0, 4, 5, 6]    Value in X[S]:4    Independent sets[1, 6]    Substraction set[0, 2, 4, 5]    Value in X[S]:4    Independent sets[4, 6]    Substraction set[0, 1, 2, 5]    Value in X[S]:4    Independent sets[5, 6]    Substraction set[0, 1, 2, 4]    Value in X[S]:4
+Actual S iteration: [0, 1, 2, 4, 5, 7]
+    Independent sets[0, 1]    Substraction set[2, 4, 5, 7]    Value in X[S]:5    Independent sets[1, 2]    Substraction set[0, 4, 5, 7]    Value in X[S]:5
+Actual S iteration: [0, 1, 2, 4, 6, 7]
+    Independent sets[0, 1]    Substraction set[2, 4, 6, 7]    Value in X[S]:4    Independent sets[1, 2]    Substraction set[0, 4, 6, 7]    Value in X[S]:4    Independent sets[1, 6]    Substraction set[0, 2, 4, 7]    Value in X[S]:4    Independent sets[4, 6]    Substraction set[0, 1, 2, 7]    Value in X[S]:4
+Actual S iteration: [0, 1, 2, 5, 6, 7]
+    Independent sets[0, 1]    Substraction set[2, 5, 6, 7]    Value in X[S]:4    Independent sets[1, 2]    Substraction set[0, 5, 6, 7]    Value in X[S]:4    Independent sets[1, 6]    Substraction set[0, 2, 5, 7]    Value in X[S]:4    Independent sets[5, 6]    Substraction set[0, 1, 2, 7]    Value in X[S]:4
+Actual S iteration: [0, 1, 3, 4, 5, 6]
+    Independent sets[1, 3, 6]    Substraction set[0, 4, 5]    Value in X[S]:4
+Actual S iteration: [0, 1, 3, 4, 5, 7]
+    Independent sets[0, 1]    Substraction set[3, 4, 5, 7]    Value in X[S]:4    Independent sets[1, 3]    Substraction set[0, 4, 5, 7]    Value in X[S]:4    Independent sets[3, 7]    Substraction set[0, 1, 4, 5]    Value in X[S]:4
+Actual S iteration: [0, 1, 3, 4, 6, 7]
+    Independent sets[1, 3, 6]    Substraction set[0, 4, 7]    Value in X[S]:4
+Actual S iteration: [0, 1, 3, 5, 6, 7]
+    Independent sets[1, 3, 6]    Substraction set[0, 5, 7]    Value in X[S]:4
+Actual S iteration: [0, 1, 4, 5, 6, 7]
+    Independent sets[0, 1]    Substraction set[4, 5, 6, 7]    Value in X[S]:4    Independent sets[1, 6]    Substraction set[0, 4, 5, 7]    Value in X[S]:4    Independent sets[4, 6]    Substraction set[0, 1, 5, 7]    Value in X[S]:4    Independent sets[5, 6]    Substraction set[0, 1, 4, 7]    Value in X[S]:4
+Actual S iteration: [0, 2, 3, 4, 5, 6]
+    Independent sets[3, 6]    Substraction set[0, 2, 4, 5]    Value in X[S]:5    Independent sets[4, 6]    Substraction set[0, 2, 3, 5]    Value in X[S]:5    Independent sets[5, 6]    Substraction set[0, 2, 3, 4]    Value in X[S]:5
+Actual S iteration: [0, 2, 3, 4, 5, 7]
+    Independent sets[3, 7]    Substraction set[0, 2, 4, 5]    Value in X[S]:5
+Actual S iteration: [0, 2, 3, 4, 6, 7]
+    Independent sets[3, 6]    Substraction set[0, 2, 4, 7]    Value in X[S]:5    Independent sets[3, 7]    Substraction set[0, 2, 4, 6]    Value in X[S]:4    Independent sets[4, 6]    Substraction set[0, 2, 3, 7]    Value in X[S]:4
+Actual S iteration: [0, 2, 3, 5, 6, 7]
+    Independent sets[3, 6]    Substraction set[0, 2, 5, 7]    Value in X[S]:5    Independent sets[3, 7]    Substraction set[0, 2, 5, 6]    Value in X[S]:4    Independent sets[5, 6]    Substraction set[0, 2, 3, 7]    Value in X[S]:4
+Actual S iteration: [0, 2, 4, 5, 6, 7]
+    Independent sets[4, 6]    Substraction set[0, 2, 5, 7]    Value in X[S]:5    Independent sets[5, 6]    Substraction set[0, 2, 4, 7]    Value in X[S]:5
+Actual S iteration: [0, 3, 4, 5, 6, 7]
+    Independent sets[3, 6]    Substraction set[0, 4, 5, 7]    Value in X[S]:5    Independent sets[3, 7]    Substraction set[0, 4, 5, 6]    Value in X[S]:4    Independent sets[4, 6]    Substraction set[0, 3, 5, 7]    Value in X[S]:4    Independent sets[5, 6]    Substraction set[0, 3, 4, 7]    Value in X[S]:4
+Actual S iteration: [1, 2, 3, 4, 5, 6]
+    Independent sets[1, 3, 6]    Substraction set[2, 4, 5]    Value in X[S]:4
+Actual S iteration: [1, 2, 3, 4, 5, 7]
+    Independent sets[1, 2]    Substraction set[3, 4, 5, 7]    Value in X[S]:4    Independent sets[1, 3]    Substraction set[2, 4, 5, 7]    Value in X[S]:4    Independent sets[3, 7]    Substraction set[1, 2, 4, 5]    Value in X[S]:4
+Actual S iteration: [1, 2, 3, 4, 6, 7]
+    Independent sets[1, 3, 6]    Substraction set[2, 4, 7]    Value in X[S]:4
+Actual S iteration: [1, 2, 3, 5, 6, 7]
+    Independent sets[1, 3, 6]    Substraction set[2, 5, 7]    Value in X[S]:4
+Actual S iteration: [1, 2, 4, 5, 6, 7]
+    Independent sets[1, 2]    Substraction set[4, 5, 6, 7]    Value in X[S]:4    Independent sets[1, 6]    Substraction set[2, 4, 5, 7]    Value in X[S]:4    Independent sets[4, 6]    Substraction set[1, 2, 5, 7]    Value in X[S]:4    Independent sets[5, 6]    Substraction set[1, 2, 4, 7]    Value in X[S]:4
+Actual S iteration: [1, 3, 4, 5, 6, 7]
+    Independent sets[1, 3, 6]    Substraction set[4, 5, 7]    Value in X[S]:4
+Actual S iteration: [2, 3, 4, 5, 6, 7]
+    Independent sets[3, 6]    Substraction set[2, 4, 5, 7]    Value in X[S]:5    Independent sets[3, 7]    Substraction set[2, 4, 5, 6]    Value in X[S]:4    Independent sets[4, 6]    Substraction set[2, 3, 5, 7]    Value in X[S]:4    Independent sets[5, 6]    Substraction set[2, 3, 4, 7]    Value in X[S]:4
+Actual S iteration: [0, 1, 2, 3, 4, 5, 6]
+    Independent sets[1, 3, 6]    Substraction set[0, 2, 4, 5]    Value in X[S]:5
+Actual S iteration: [0, 1, 2, 3, 4, 5, 7]
+    Independent sets[0, 1]    Substraction set[2, 3, 4, 5, 7]    Value in X[S]:5    Independent sets[1, 2]    Substraction set[0, 3, 4, 5, 7]    Value in X[S]:5    Independent sets[1, 3]    Substraction set[0, 2, 4, 5, 7]    Value in X[S]:5    Independent sets[3, 7]    Substraction set[0, 1, 2, 4, 5]    Value in X[S]:5
+Actual S iteration: [0, 1, 2, 3, 4, 6, 7]
+    Independent sets[1, 3, 6]    Substraction set[0, 2, 4, 7]    Value in X[S]:5
+Actual S iteration: [0, 1, 2, 3, 5, 6, 7]
+    Independent sets[1, 3, 6]    Substraction set[0, 2, 5, 7]    Value in X[S]:5
+Actual S iteration: [0, 1, 2, 4, 5, 6, 7]
+    Independent sets[0, 1]    Substraction set[2, 4, 5, 6, 7]    Value in X[S]:5    Independent sets[1, 2]    Substraction set[0, 4, 5, 6, 7]    Value in X[S]:5    Independent sets[1, 6]    Substraction set[0, 2, 4, 5, 7]    Value in X[S]:5    Independent sets[4, 6]    Substraction set[0, 1, 2, 5, 7]    Value in X[S]:5    Independent sets[5, 6]    Substraction set[0, 1, 2, 4, 7]    Value in X[S]:5
+Actual S iteration: [0, 1, 3, 4, 5, 6, 7]
+    Independent sets[1, 3, 6]    Substraction set[0, 4, 5, 7]    Value in X[S]:5
+Actual S iteration: [0, 2, 3, 4, 5, 6, 7]
+    Independent sets[3, 6]    Substraction set[0, 2, 4, 5, 7]    Value in X[S]:6    Independent sets[3, 7]    Substraction set[0, 2, 4, 5, 6]    Value in X[S]:5    Independent sets[4, 6]    Substraction set[0, 2, 3, 5, 7]    Value in X[S]:5    Independent sets[5, 6]    Substraction set[0, 2, 3, 4, 7]    Value in X[S]:5
+Actual S iteration: [1, 2, 3, 4, 5, 6, 7]
+    Independent sets[1, 3, 6]    Substraction set[2, 4, 5, 7]    Value in X[S]:5
+Actual S iteration: [0, 1, 2, 3, 4, 5, 6, 7]
+    Independent sets[1, 3, 6]    Substraction set[0, 2, 4, 5, 7]    Value in X[S]:6
+6 vs 5
+WRONG:: test/graph022.gpickle
+8 [(0, 2), (0, 3), (0, 4), (0, 5), (0, 6), (0, 7), (1, 4), (1, 5), (1, 7), (2, 3), (2, 4), (2, 5), (2, 6), (2, 7), (3, 4), (3, 5), (4, 5), (4, 7), (5, 7), (6, 7)]
+[[1, 3, 6]]
